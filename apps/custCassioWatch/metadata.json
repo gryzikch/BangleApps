@@ -4,7 +4,7 @@
   "version":"0.01",
   "icon": "app.png",
   "type": "clock",
-  "tags": "clock, calendar week",
+  "tags": "clock, cassio",
   "supports" : ["BANGLEJS2"],
   "allow_emulator": true,
   "readme": "README.md",
